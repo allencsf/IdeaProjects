@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: qwe123
+    url: jdbc:mysql://localhost:3306/jdbc
+    driver-class-name: com.mysql.jdbc.Driver
